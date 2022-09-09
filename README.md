@@ -1,6 +1,7 @@
-# my_class_5
+# Calculator
 
-A new Flutter project.
+Calculator which use to perform arthimetic operations such as addition, subtraction, multiplication and division by using dart
+
 
 ## Getting Started
 
